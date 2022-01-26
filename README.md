@@ -44,8 +44,4 @@ nestedGravity_toast.setOnClickListener(this);
 
 <img src="app_images/All Toast Code.png" width="1000" /><br>
 
-<img src="app_images/All Toast App1.png" width="300" /><br>
-
-<img src="app_images/All Toast App2.png" width="300" /><br>
-
-<img src="app_images/All Toast App3.png" width="300" /><br>
+<img src="app_images/All Toast App1.png" width="300" /> <img src="app_images/All Toast App2.png" width="300" /> <img src="app_images/All Toast App3.png" width="300" /><br>
