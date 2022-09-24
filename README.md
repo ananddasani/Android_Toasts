@@ -44,6 +44,7 @@ nestedGravity_toast.setOnClickListener(this);
 
 # App Highlight
 
-<img src="app_images/All Toast Code.png" width="1000" /><br>
-
-<img src="app_images/All Toast App1.png" width="300" /> <img src="app_images/All Toast App2.png" width="300" /> <img src="app_images/All Toast App3.png" width="300" /><br>
+![All Toast App1](https://user-images.githubusercontent.com/74413402/192092681-3d154c4c-bfeb-41e1-b302-20feb89f9b6f.png)
+![All Toast App2](https://user-images.githubusercontent.com/74413402/192092683-536fb1ed-8e0d-4d5c-8541-de2af6102949.png)
+![All Toast App3](https://user-images.githubusercontent.com/74413402/192092684-2cb2c713-867d-4324-9988-37e5f3674f1d.png)
+![All Toasts Code](https://user-images.githubusercontent.com/74413402/192092685-e1b5bb50-5130-4041-8f8c-31847f8f712f.png)
